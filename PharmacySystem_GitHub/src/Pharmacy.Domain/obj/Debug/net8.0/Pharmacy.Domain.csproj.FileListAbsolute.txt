@@ -1,0 +1,11 @@
+C:\Users\Warsl\OneDrive\Рабочий стол\PharmacySystem_GitHub\src\Pharmacy.Domain\bin\Debug\net8.0\Pharmacy.Domain.deps.json
+C:\Users\Warsl\OneDrive\Рабочий стол\PharmacySystem_GitHub\src\Pharmacy.Domain\bin\Debug\net8.0\Pharmacy.Domain.dll
+C:\Users\Warsl\OneDrive\Рабочий стол\PharmacySystem_GitHub\src\Pharmacy.Domain\bin\Debug\net8.0\Pharmacy.Domain.pdb
+C:\Users\Warsl\OneDrive\Рабочий стол\PharmacySystem_GitHub\src\Pharmacy.Domain\obj\Debug\net8.0\Pharmacy.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Warsl\OneDrive\Рабочий стол\PharmacySystem_GitHub\src\Pharmacy.Domain\obj\Debug\net8.0\Pharmacy.Domain.AssemblyInfoInputs.cache
+C:\Users\Warsl\OneDrive\Рабочий стол\PharmacySystem_GitHub\src\Pharmacy.Domain\obj\Debug\net8.0\Pharmacy.Domain.AssemblyInfo.cs
+C:\Users\Warsl\OneDrive\Рабочий стол\PharmacySystem_GitHub\src\Pharmacy.Domain\obj\Debug\net8.0\Pharmacy.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Warsl\OneDrive\Рабочий стол\PharmacySystem_GitHub\src\Pharmacy.Domain\obj\Debug\net8.0\Pharmacy.Domain.dll
+C:\Users\Warsl\OneDrive\Рабочий стол\PharmacySystem_GitHub\src\Pharmacy.Domain\obj\Debug\net8.0\refint\Pharmacy.Domain.dll
+C:\Users\Warsl\OneDrive\Рабочий стол\PharmacySystem_GitHub\src\Pharmacy.Domain\obj\Debug\net8.0\Pharmacy.Domain.pdb
+C:\Users\Warsl\OneDrive\Рабочий стол\PharmacySystem_GitHub\src\Pharmacy.Domain\obj\Debug\net8.0\ref\Pharmacy.Domain.dll

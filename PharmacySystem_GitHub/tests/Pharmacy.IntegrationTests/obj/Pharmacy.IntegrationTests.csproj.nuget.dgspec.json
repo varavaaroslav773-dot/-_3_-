@@ -1,0 +1,309 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Warsl\\OneDrive\\Рабочий стол\\PharmacySystem_GitHub\\tests\\Pharmacy.IntegrationTests\\Pharmacy.IntegrationTests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Warsl\\OneDrive\\Рабочий стол\\PharmacySystem_GitHub\\src\\Pharmacy.Application\\Pharmacy.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Warsl\\OneDrive\\Рабочий стол\\PharmacySystem_GitHub\\src\\Pharmacy.Application\\Pharmacy.Application.csproj",
+        "projectName": "Pharmacy.Application",
+        "projectPath": "C:\\Users\\Warsl\\OneDrive\\Рабочий стол\\PharmacySystem_GitHub\\src\\Pharmacy.Application\\Pharmacy.Application.csproj",
+        "packagesPath": "C:\\Users\\Warsl\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Warsl\\OneDrive\\Рабочий стол\\PharmacySystem_GitHub\\src\\Pharmacy.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Warsl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Warsl\\OneDrive\\Рабочий стол\\PharmacySystem_GitHub\\src\\Pharmacy.Domain\\Pharmacy.Domain.csproj": {
+                "projectPath": "C:\\Users\\Warsl\\OneDrive\\Рабочий стол\\PharmacySystem_GitHub\\src\\Pharmacy.Domain\\Pharmacy.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.318/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Warsl\\OneDrive\\Рабочий стол\\PharmacySystem_GitHub\\src\\Pharmacy.Domain\\Pharmacy.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Warsl\\OneDrive\\Рабочий стол\\PharmacySystem_GitHub\\src\\Pharmacy.Domain\\Pharmacy.Domain.csproj",
+        "projectName": "Pharmacy.Domain",
+        "projectPath": "C:\\Users\\Warsl\\OneDrive\\Рабочий стол\\PharmacySystem_GitHub\\src\\Pharmacy.Domain\\Pharmacy.Domain.csproj",
+        "packagesPath": "C:\\Users\\Warsl\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Warsl\\OneDrive\\Рабочий стол\\PharmacySystem_GitHub\\src\\Pharmacy.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Warsl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.318/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Warsl\\OneDrive\\Рабочий стол\\PharmacySystem_GitHub\\src\\Pharmacy.Infrastructure\\Pharmacy.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Warsl\\OneDrive\\Рабочий стол\\PharmacySystem_GitHub\\src\\Pharmacy.Infrastructure\\Pharmacy.Infrastructure.csproj",
+        "projectName": "Pharmacy.Infrastructure",
+        "projectPath": "C:\\Users\\Warsl\\OneDrive\\Рабочий стол\\PharmacySystem_GitHub\\src\\Pharmacy.Infrastructure\\Pharmacy.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Warsl\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Warsl\\OneDrive\\Рабочий стол\\PharmacySystem_GitHub\\src\\Pharmacy.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Warsl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Warsl\\OneDrive\\Рабочий стол\\PharmacySystem_GitHub\\src\\Pharmacy.Application\\Pharmacy.Application.csproj": {
+                "projectPath": "C:\\Users\\Warsl\\OneDrive\\Рабочий стол\\PharmacySystem_GitHub\\src\\Pharmacy.Application\\Pharmacy.Application.csproj"
+              },
+              "C:\\Users\\Warsl\\OneDrive\\Рабочий стол\\PharmacySystem_GitHub\\src\\Pharmacy.Domain\\Pharmacy.Domain.csproj": {
+                "projectPath": "C:\\Users\\Warsl\\OneDrive\\Рабочий стол\\PharmacySystem_GitHub\\src\\Pharmacy.Domain\\Pharmacy.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.318/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Warsl\\OneDrive\\Рабочий стол\\PharmacySystem_GitHub\\tests\\Pharmacy.IntegrationTests\\Pharmacy.IntegrationTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Warsl\\OneDrive\\Рабочий стол\\PharmacySystem_GitHub\\tests\\Pharmacy.IntegrationTests\\Pharmacy.IntegrationTests.csproj",
+        "projectName": "Pharmacy.IntegrationTests",
+        "projectPath": "C:\\Users\\Warsl\\OneDrive\\Рабочий стол\\PharmacySystem_GitHub\\tests\\Pharmacy.IntegrationTests\\Pharmacy.IntegrationTests.csproj",
+        "packagesPath": "C:\\Users\\Warsl\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Warsl\\OneDrive\\Рабочий стол\\PharmacySystem_GitHub\\tests\\Pharmacy.IntegrationTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Warsl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Warsl\\OneDrive\\Рабочий стол\\PharmacySystem_GitHub\\src\\Pharmacy.Application\\Pharmacy.Application.csproj": {
+                "projectPath": "C:\\Users\\Warsl\\OneDrive\\Рабочий стол\\PharmacySystem_GitHub\\src\\Pharmacy.Application\\Pharmacy.Application.csproj"
+              },
+              "C:\\Users\\Warsl\\OneDrive\\Рабочий стол\\PharmacySystem_GitHub\\src\\Pharmacy.Domain\\Pharmacy.Domain.csproj": {
+                "projectPath": "C:\\Users\\Warsl\\OneDrive\\Рабочий стол\\PharmacySystem_GitHub\\src\\Pharmacy.Domain\\Pharmacy.Domain.csproj"
+              },
+              "C:\\Users\\Warsl\\OneDrive\\Рабочий стол\\PharmacySystem_GitHub\\src\\Pharmacy.Infrastructure\\Pharmacy.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Warsl\\OneDrive\\Рабочий стол\\PharmacySystem_GitHub\\src\\Pharmacy.Infrastructure\\Pharmacy.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.11.1, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.9.2, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.318/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
